@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Samurai",
+"dataUrl": "Samurai Game WebGL.data.unityweb",
+"asmCodeUrl": "Samurai Game WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Samurai Game WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Samurai Game WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

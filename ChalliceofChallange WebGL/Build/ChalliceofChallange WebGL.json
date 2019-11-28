@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Chalice Of Challenge",
+"dataUrl": "ChalliceofChallange WebGL.data.unityweb",
+"asmCodeUrl": "ChalliceofChallange WebGL.asm.code.unityweb",
+"asmMemoryUrl": "ChalliceofChallange WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "ChalliceofChallange WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
